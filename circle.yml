@@ -1,3 +1,4 @@
 deployment:
   prod:
-    deploy.sh
+    commands:
+      deploy.sh
