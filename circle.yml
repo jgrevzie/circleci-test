@@ -1,4 +1,5 @@
 deployment:
   prod:
+    branch: master
     commands:
       - ./deploy.sh
